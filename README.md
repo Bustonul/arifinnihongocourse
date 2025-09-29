@@ -432,7 +432,7 @@
     // Auto play
     setInterval(() => { 
       nextSlide(); 
-    }, 5000);
+    }, 5000); 
 
     // Initialize
     createDots();
