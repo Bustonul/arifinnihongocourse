@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -322,7 +321,7 @@
       <p class="subtitle">Dengan bahasa kita bisa mengenal dunia lebih jauh</p>
     </div>
     <nav>
-      <a href="#">Home</a>
+      <a href="/">home</a>
       <a href="#">Tentang</a>
       <a href="#">Kursus</a>
       <a href="#">Kontak</a>
